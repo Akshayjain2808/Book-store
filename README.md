@@ -1,11 +1,9 @@
 <<<<<<< HEAD
 
-build-full-stack-book-store-mern-app
-full-stack-book-store-mern-project
-
 How to run this project:
 
 For Frontend
+
 Follow the below steps to run the project:
 
 Firstly clone or unzip the project folder.
@@ -19,8 +17,11 @@ VITE_PROJECT_ID="book-store-mern-app"
 VITE_STORAGE_BUCKET="book-store-mern-app.appspot.com"
 VITE_MESSAGING_SENDERID= "205632822247"
 VITE_APPID="1:205632822247:web:b0db0ec66bf6de0bbb3b42"
+
 Then run npm install commend to install node dependencies.
 Finally, to run the project, use npm run dev command.
+
+
 For Backend
 Follow the below steps to run the project:
 
